@@ -25,6 +25,7 @@ p {
 a {
   font-family: 'IBM Plex Mono', monospace;
   font-size: 20px;
+  text-decoration: none;
   color: #0066b2;
 }
 
