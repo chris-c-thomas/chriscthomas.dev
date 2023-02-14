@@ -21,3 +21,15 @@ p {
   font-family: 'IBM Plex Mono', monospace;
   font-size: 20px;
 }
+
+a {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 20px;
+  color: #0066b2;
+}
+
+a:hover,
+a:focus {
+  text-decoration: underline;
+  color: #452c63;
+}
