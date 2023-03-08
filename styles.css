@@ -27,6 +27,7 @@ a {
   font-family: 'Labrada', monospace;
   font-size: 24px;
   text-decoration: none;
+  letter-spacing: 2px;
   font-style: italic;
   color: #0066b2;
 }
