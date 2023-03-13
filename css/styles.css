@@ -27,6 +27,7 @@ p {
   font-family: 'IBM Plex Mono', monospace;
   font-size: 20px;
   font-weight: 400;
+  padding: 10px 0px;
 }
 
 a {
